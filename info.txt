@@ -1,1 +1,3 @@
 Keep this file for additional info and stuff to remember
+
+git remote add origin https://github.com/Agnes1995/agnes.git
