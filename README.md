@@ -10,3 +10,5 @@ Goodness - nothing seems to get into the base anymore...  - lets see if this cha
 New entry from mhD
 
 This ia new line from the MacBook - you really need this line!
+
+Adding this directly into the master 
