@@ -12,4 +12,4 @@ this is mhB branch and I am going to write some cool code!
 
 *******************************************
 
-And now for some BranchA changes
+And now for some BranchA changes - also included a new info.txt file
