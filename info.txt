@@ -1,3 +1,6 @@
 Keep this file for additional info and stuff to remember
+1. Inserted line from VSCode
+
 
 git remote add origin https://github.com/Agnes1995/agnes.git
+
